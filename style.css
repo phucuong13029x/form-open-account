@@ -1,6 +1,6 @@
 @font-face{
 	font-family: 'Arial Unicode MS';
-	src: url(Arial-Unicode-MS.woff);
+	src: url(./Arial-Unicode-MS.woff);
 }  
 body{
 	background-color: darkgray;
